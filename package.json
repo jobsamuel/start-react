@@ -1,6 +1,6 @@
 {
   "name": "start-react",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A great template to start developing with React.",
   "main": "gulpfile.js",
   "dependencies": {
